@@ -1,0 +1,109 @@
+.signup1 {
+    background-color: #3961d4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .signup1 .overlap-wrapper {
+    background-color: #3961d4;
+    height: 1117px;
+    width: 1728px;
+  }
+  
+  .signup1 .overlap {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 570px;
+    left: 423px;
+    position: relative;
+    top: 273px;
+    width: 882px;
+  }
+  
+  .signup1 .signup-title-text {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 294px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+    width: 292px;
+  }
+  
+  .signup1 .choose-text {
+    color: #000000;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 257px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 196px;
+    white-space: nowrap;
+    width: 367px;
+  }
+  
+  .signup1 .admin-button {
+    height: 71px;
+    left: 192px;
+    position: absolute;
+    top: 333px;
+    width: 500px;
+  }
+  
+  .signup1 .overlap-group {
+    background-color: #e8f0fe;
+    border: 1px solid;
+    border-color: #d2d3e2;
+    border-radius: 40px;
+    height: 71px;
+    position: relative;
+    width: 498px;
+  }
+  
+  .signup1 .admin-button-text {
+    color: #000000;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 23px;
+    white-space: nowrap;
+    width: 367px;
+  }
+  
+  .signup1 .user-button {
+    height: 71px;
+    left: 192px;
+    position: absolute;
+    top: 236px;
+    width: 500px;
+  }
+  
+  .signup1 .user-button-text {
+    color: #000000;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 24px;
+    white-space: nowrap;
+    width: 367px;
+  }
+  

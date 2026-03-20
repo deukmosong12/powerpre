@@ -1,0 +1,32 @@
+.retrieve-user {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.retrieve-user .overlap-wrapper { background-color: #ffffff; height: 1117px; overflow: hidden; width: 1728px; }
+.retrieve-user .overlap { height: 1117px; position: relative; width: 1732px; }
+.retrieve-user .overlap-group { height: 1117px; left: 0; position: absolute; top: 0; width: 1732px; }
+.retrieve-user .topmenu { height: 101px; left: 0; position: absolute; top: 0; width: 1732px; }
+.retrieve-user .div { background-color: #e8f0fe; height: 101px; position: relative; width: 1728px; }
+.retrieve-user .text-wrapper { color: #4e5360; font-family: "Helvetica Neue-Regular", Helvetica; font-size: 15px; font-weight: 400; left: 1550px; letter-spacing: 0; line-height: normal; position: absolute; text-align: center; top: 42px; white-space: nowrap; width: 133px; }
+.retrieve-user .logout-button { color: #4e5360; cursor: pointer; font-family: "Helvetica Neue-Regular", Helvetica; font-size: 15px; font-weight: 400; left: 1401px; letter-spacing: 0; line-height: normal; position: absolute; text-align: center; top: 43px; white-space: nowrap; width: 85px; }
+.retrieve-user .topmenu-line { height: 45px; left: 1496px; object-fit: cover; position: absolute; top: 28px; width: 1px; }
+.retrieve-user .user-img { height: 40px; left: 1650px; position: absolute; top: 31px; width: 40px; }
+.retrieve-user .sidemenu { height: 1117px; left: 0; position: absolute; top: 0; width: 253px; }
+.retrieve-user .overlap-2 { background-color: #3a62d5; height: 1117px; position: relative; width: 251px; }
+.retrieve-user .home-button { color: #ffffff; cursor: pointer; font-family: "Helvetica Neue-Bold", Helvetica; font-size: 20px; font-weight: 700; left: 9px; letter-spacing: 0; line-height: normal; position: absolute; text-align: center; top: 51px; white-space: nowrap; width: 234px; }
+.retrieve-user .sidemenu-line { height: 1px; left: 26px; object-fit: cover; position: absolute; top: 100px; width: 200px; }
+.retrieve-user .reg-button { cursor: pointer; height: 20px; left: 55px; position: absolute; top: 163px; width: 144px; }
+.retrieve-user .text-wrapper-2 { color: #ffffff; font-family: "Helvetica Neue-Medium", Helvetica; font-size: 17px; font-weight: 500; left: 0; letter-spacing: 0; line-height: normal; position: absolute; top: 0; white-space: nowrap; width: 127px; }
+.retrieve-user .img { height: 7px; left: 115px; object-fit: cover; position: absolute; top: 6px; width: 16px; }
+.retrieve-user .ret-button { cursor: pointer; height: 20px; left: 55px; position: absolute; top: 214px; width: 144px; }
+.retrieve-user .pred-graph { height: 482px; left: 413px; position: absolute; top: 238px; width: 1155px; }
+.retrieve-user .pred-graph-text-wrapper { background-color: #ffffff; border: 1px solid; border-color: #d2d3e2; border-radius: 30px; height: 66px; left: 0; position: absolute; top: 0; width: 1153px; }
+.retrieve-user .pred-graph-text { color: #3a62d5; font-family: "Helvetica Neue-Bold", Helvetica; font-size: 20px; font-weight: 700; left: 39px; letter-spacing: 0; line-height: normal; position: absolute; top: 19px; white-space: nowrap; width: 223px; }
+.retrieve-user .pred-graph-box { background-color: #ffffff; border: 1px solid; border-color: #d2d3e2; border-radius: 30px; height: 402px; left: 0; position: absolute; top: 80px; width: 1113px; padding: 20px; }
+.retrieve-user .pred-graph-box .line-graph { width: 100%; height: 100%; }
+.retrieve-user .pred-graph-bname-box { background-color: #ffffff; border: 1px solid; border-color: #d2d3e2; border-radius: 30px; height: 30px; left: 1320px; position: absolute; top: 197px; width: 240px; padding-left: 10px; }
+.retrieve-user .expect-fee-text { color: #000000; font-family: "Helvetica Neue-Bold", Helvetica; font-size: 25px; font-weight: 700; left: 753px; letter-spacing: 0; line-height: normal; position: absolute; text-align: center; top: 753px; white-space: nowrap; width: 471px; }
+.retrieve-user .status-msg { color: #888; font-family: "Helvetica Neue-Regular", Helvetica; font-size: 18px; text-align: center; padding-top: 150px; }

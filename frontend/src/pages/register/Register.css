@@ -1,0 +1,316 @@
+.register {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .register .overlap-wrapper {
+    background-color: #ffffff;
+    height: 1117px;
+    overflow: hidden;
+    width: 1728px;
+  }
+  
+  .register .overlap {
+    height: 1117px;
+    position: relative;
+    width: 1732px;
+  }
+  
+  .register .overlap-group {
+    height: 1117px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1732px;
+  }
+  
+  .register .topmenu {
+    height: 101px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1732px;
+  }
+  
+  .register .div {
+    background-color: #e8f0fe;
+    height: 101px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .register .text-wrapper {
+    color: #4e5360;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 1550px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+    white-space: nowrap;
+    width: 133px;
+  }
+  
+  .register .logout-button {
+    color: #4e5360;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 1401px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 43px;
+    white-space: nowrap;
+    width: 85px;
+  }
+  
+  .register .topmenu-line {
+    height: 45px;
+    left: 1496px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 1px;
+  }
+  
+  .register .user-img {
+    height: 40px;
+    left: 1650px;
+    position: absolute;
+    top: 31px;
+    width: 40px;
+  }
+  
+  .register .sidemenu {
+    height: 1117px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 253px;
+  }
+  
+  .register .overlap-2 {
+    background-color: #3a62d5;
+    height: 1117px;
+    position: relative;
+    width: 251px;
+  }
+  
+  .register .home-button {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    white-space: nowrap;
+    width: 234px;
+  }
+  
+  .register .sidemenu-line {
+    height: 1px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 100px;
+    width: 200px;
+  }
+  
+  .register .reg-button {
+    height: 20px;
+    left: 55px;
+    position: absolute;
+    top: 163px;
+    width: 144px;
+  }
+  
+  .register .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 17px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 127px;
+  }
+  
+  .register .img {
+    height: 7px;
+    left: 115px;
+    object-fit: cover;
+    position: absolute;
+    top: 6px;
+    width: 16px;
+  }
+  
+  .register .ret-button {
+    height: 20px;
+    left: 55px;
+    position: absolute;
+    top: 214px;
+    width: 144px;
+  }
+  
+  .register .title {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 772px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 318px;
+    white-space: nowrap;
+    width: 435px;
+  }
+  
+  .register .building-input-form {
+    height: 62px;
+    left: 638px;
+    position: absolute;
+    top: 405px;
+    width: 586px;
+  }
+  
+  .register .building-input {
+    background-color: #e8f0fe;
+    border: 1px solid;
+    border-color: #d2d3e2;
+    border-radius: 30px;
+    height: 62px;
+    left: 119px;
+    position: absolute;
+    top: 0;
+    width: 465px;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 20px;
+    padding-left: 30px;
+  }
+  
+  .register .text-wrapper-3 {
+    color: #000000;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 19px;
+    white-space: nowrap;
+    width: 95px;
+  }
+  
+  .register .file-input-form {
+    height: 186px;
+    left: 638px;
+    position: absolute;
+    top: 495px;
+    width: 586px;
+  }
+  
+  .register .file-input {
+    background-color: #e8f0fe;
+    border: 1px solid;
+    border-color: #d2d3e2;
+    border-radius: 30px;
+    height: 186px;
+    left: 119px;
+    position: absolute;
+    top: 0;
+    width: 465px;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+  }
+  
+  .register .file-button {
+    height: 40px;
+    left: 1260px;
+    position: absolute;
+    top: 495px;
+    width: 102px;
+  }
+
+  .register .file-delete-button {
+    height: 40px;
+    left: 1260px;
+    position: absolute;
+    top: 550px;
+    width: 102px;
+  }
+  
+  .register .file-button-text-wrapper {
+    background-color: #3a62d5;
+    border-radius: 20px;
+    height: 40px;
+    position: relative;
+    width: 100px;
+  }
+  
+  .register .file-button-text {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    white-space: nowrap;
+    width: 60px;
+  }
+  
+  .register .submit-button {
+    height: 54px;
+    left: 860px;
+    position: absolute;
+    top: 745px;
+    width: 269px;
+  }
+  
+  .register .submit-button-text-wrapper {
+    background-color: #3a62d5;
+    border-radius: 20px;
+    height: 54px;
+    position: relative;
+    width: 267px;
+  }
+  
+  .register .submit-button-text {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 18px;
+    white-space: nowrap;
+    width: 161px;
+  }
+  

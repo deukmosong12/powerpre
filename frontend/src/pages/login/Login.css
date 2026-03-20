@@ -1,0 +1,114 @@
+.login {
+    background-color: #3961d4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .login .overlap-wrapper {
+    background-color: #3961d4;
+    height: 1117px;
+    width: 1728px;
+  }
+  
+  .login .overlap {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 570px;
+    left: 423px;
+    position: relative;
+    top: 273px;
+    width: 882px;
+  }
+  
+  .login .login-title-text {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 294px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+    width: 292px;
+  }
+  
+  .login .id-input {
+    background-color: #e8f0fe;
+    border: 1px solid;
+    border-color: #d2d3e2;
+    border-radius: 40px;
+    height: 71px;
+    left: 191px;
+    position: absolute;
+    top: 177px;
+    width: 468px;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 20px;
+    padding-left: 30px;
+  }
+  
+  .login .pw-input {
+    background-color: #e8f0fe;
+    border: 1px solid;
+    border-color: #d2d3e2;
+    border-radius: 40px;
+    height: 71px;
+    left: 191px;
+    position: absolute;
+    top: 268px;
+    width: 468px;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 20px;
+    padding-left: 30px;
+  }
+  
+  .login .login-button {
+    height: 71px;
+    left: 192px;
+    position: absolute;
+    top: 382px;
+    width: 500px;
+  }
+  
+  .login .overlap-group {
+    background-color: #3a62d5;
+    border: 1px solid;
+    border-color: #d2d3e2;
+    border-radius: 40px;
+    height: 71px;
+    position: relative;
+    width: 498px;
+  }
+  
+  .login .login-button-text {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 21px;
+    width: 127px;
+  }
+  
+  .login .signup-button-text {
+    color: #3a62d5;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 381px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 472px;
+    width: 118px;
+  }
+  

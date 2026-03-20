@@ -1,0 +1,331 @@
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .overlap-wrapper {
+    background-color: #ffffff;
+    height: 1117px;
+    overflow: hidden;
+    width: 1728px;
+  }
+  
+  .home .overlap {
+    height: 1117px;
+    position: relative;
+    width: 1732px;
+  }
+  
+  .home .overlap-group {
+    height: 1117px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1732px;
+  }
+  
+  .home .topmenu {
+    height: 101px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1732px;
+  }
+  
+  .home .div {
+    background-color: #e8f0fe;
+    height: 101px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .home .text-wrapper {
+    color: #4e5360;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 1550px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+    white-space: nowrap;
+    width: 133px;
+  }
+  
+  .home .logout-button {
+    color: #4e5360;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 1401px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 43px;
+    white-space: nowrap;
+    width: 85px;
+  }
+  
+  .home .topmenu-line {
+    height: 45px;
+    left: 1496px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 1px;
+  }
+  
+  .home .user-img {
+    height: 40px;
+    left: 1650px;
+    position: absolute;
+    top: 31px;
+    width: 40px;
+  }
+  
+  .home .sidemenu {
+    height: 1117px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 253px;
+  }
+  
+  .home .overlap-2 {
+    background-color: #3a62d5;
+    height: 1117px;
+    position: relative;
+    width: 251px;
+  }
+  
+  .home .home-button {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    white-space: nowrap;
+    width: 234px;
+  }
+  
+  .home .sidemenu-line {
+    height: 1px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 100px;
+    width: 200px;
+  }
+  
+  .home .reg-button {
+    height: 20px;
+    left: 55px;
+    position: absolute;
+    top: 163px;
+    width: 144px;
+  }
+  
+  .home .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 17px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 127px;
+  }
+  
+  .home .img {
+    height: 7px;
+    left: 115px;
+    object-fit: cover;
+    position: absolute;
+    top: 6px;
+    width: 16px;
+  }
+  
+  .home .ret-button {
+    height: 20px;
+    left: 55px;
+    position: absolute;
+    top: 214px;
+    width: 144px;
+  }
+  
+  .home .home-title {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 590px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 250px;
+    width: 811px;
+  }
+  
+  .home .overlap-3 {
+    height: 430px;
+    left: 735px;
+    position: absolute;
+    top: 364px;
+    width: 528px;
+  }
+  
+  .home .data-resource {
+    height: 430px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 528px;
+  }
+  
+  .home .data-resource-title {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+    width: 209px;
+  }
+  
+  .home .overlap-4 {
+    height: 390px;
+    left: 0;
+    position: absolute;
+    top: 40px;
+    width: 287px;
+  }
+  
+  .home .data-resource-back {
+    background-color: #e8f0fe;
+    border: 1px solid;
+    border-color: #afb6c9;
+    border-radius: 10px;
+    height: 390px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 248px;
+  }
+  
+  .home .data-resource-text {
+    color: #000000;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 23px;
+    width: 177px;
+  }
+  
+  .home .span {
+    font-weight: 500;
+  }
+  
+  .home .text-wrapper-3 {
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .home .data-resource-line {
+    height: 1px;
+    left: 250px;
+    object-fit: cover;
+    position: absolute;
+    top: 126px;
+    width: 40px;
+  }
+  
+  .home .pred-data-text-wrapper {
+    background-color: #3a62d5;
+    border-radius: 117.5px;
+    height: 235px;
+    left: 287px;
+    position: absolute;
+    top: 49px;
+    width: 235px;
+  }
+  
+  .home .pred-data-text {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 103px;
+    white-space: nowrap;
+    width: 178px;
+  }
+  
+  .home .reg-big-button {
+    background-color: #3a62d5;
+    border-radius: 30px;
+    height: 65px;
+    left: 287px;
+    position: absolute;
+    top: 365px;
+    width: 235px;
+  }
+  
+  .home .reg-big-button-texts {
+    height: 30px;
+    left: 58px;
+    position: relative;
+    top: 18px;
+    width: 121px;
+  }
+  
+  .home .reg-big-button-text {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 93px;
+  }
+  
+  .home .reg-big-button-arrow {
+    height: 15px;
+    left: 93px;
+    position: absolute;
+    top: 8px;
+    width: 26px;
+  }
+  
