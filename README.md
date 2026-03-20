@@ -30,10 +30,10 @@
 
 | 구분 | 사용 기술 |
 |------|-----------|
-| Frontend | React, Chart.js |
+| Frontend | React |
 | Backend | Spring Boot 3, Spring Security |
 | ML | Python, scikit-learn (HistGradientBoosting) |
-| DB | H2 (In-Memory) |
+| DB | MYSQL |
 
 ---
 
