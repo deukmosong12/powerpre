@@ -1,6 +1,7 @@
 # ⚡️ 전력 예측 시스템
 
-![전력 수요 그래프](https://github.com/deukmosong12/powerpre/blob/main/preview.png?raw=true)
+건물의 과거 전력 사용 데이터
+![KakaoTalk_Photo_2026-03-20-18-30-43](https://github.com/user-attachments/assets/17a11922-cd24-4ee8-853d-5d64d992a802)
 
 건물의 과거 전력 사용 데이터를 업로드하면, 향후 1년치 전력 수요와 예상 전기세를 자동으로 예측해주는 시스템입니다.  
 여러 건물을 동시에 비교할 수 있어 에너지 관리에 활용하기 좋습니다.
